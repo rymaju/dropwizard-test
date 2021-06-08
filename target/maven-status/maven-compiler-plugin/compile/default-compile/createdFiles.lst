@@ -1,0 +1,5 @@
+test\health\TemplateHealthCheck.class
+test\resources\HelloWorldResource.class
+test\testApplication.class
+test\api\Saying.class
+test\TestConfiguration.class
